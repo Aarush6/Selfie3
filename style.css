@@ -1,0 +1,45 @@
+body{
+    background-color: red;
+}
+#meh{
+    color: aqua;
+font-style: italic;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-weight: 100;
+}
+#dead{
+    color: green;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#alive{
+    color: white;
+    font-style: oblique;
+    font-family: cursive;
+}
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+.stuff{
+    height: 500px;
+    width:600px;
+    border-radius: 30px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    box-shadow: 5px;
+}
+.column{
+    display: inline;
+}
+img:hover{
+    height:550px;
+    width:650px;
+}
+#textbox
+{
+    width: 300px;
+}
